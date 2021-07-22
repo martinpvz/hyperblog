@@ -46,3 +46,10 @@ body
 #algo{
     
 }
+
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 00.5em;
+}
