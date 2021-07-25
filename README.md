@@ -7,5 +7,6 @@ Las pincipales características son:
 * Soy un crack
 * Tenemos un editor
 * Estoy aprendiendo bastante
+* Creado por el increible Martin
 
 **Y como recordatorio este README es claramente un chiste**
