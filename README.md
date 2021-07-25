@@ -8,5 +8,7 @@ Las pincipales características son:
 * Tenemos un editor
 * Estoy aprendiendo bastante
 * Creado por el increible Martin
+* Incluye ejemplos en windows, linux y mac
+* Disponible para todas las edades
 
 **Y como recordatorio este README es claramente un chiste**
